@@ -17,3 +17,7 @@ html { box-sizing: border-box; }
 body {
     background-color: #bdc3c7;
 }
+
+.obsah {
+    background-color: #b92e81;
+};
